@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
-cout<<"lam hong file roi!";
-cin.get();
+	cout<<"Hello Word!\n";
+	cout<<"----------------------------\n";
+	cin.get();
 }
